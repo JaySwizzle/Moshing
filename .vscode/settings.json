@@ -1,0 +1,9 @@
+{
+    "debug.javascript.autoAttachFilter": "smart",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-chrome": "stable"
+    },
+    "debug.javascript.terminalOptions": {
+    "outputCapture": "console"
+    }
+}
