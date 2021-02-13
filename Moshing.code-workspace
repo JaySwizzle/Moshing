@@ -11,7 +11,10 @@
 		},
 		"debug.javascript.terminalOptions": {
 			"outputCapture": "console"
-		}
+		},
+		"cSpell.ignoreWords": [
+			"pimpit"
+		]
 	},
 	"launch": {
 		"version": "0.2.0",

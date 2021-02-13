@@ -26,6 +26,6 @@ function fizzBuzz(input) {
         
     return input;
    
-};
+}
 
 
