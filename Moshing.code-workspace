@@ -12,5 +12,17 @@
 		"debug.javascript.terminalOptions": {
 			"outputCapture": "console"
 		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		
+			{
+				"type": "devtools-for-chrome",
+				"name": "Launch Chrome against localhost",
+				"request": "launch",
+				"url": "http://localhost:8080"
+			}
+		]
 	}
 }
